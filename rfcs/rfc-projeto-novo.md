@@ -26,6 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ullamcorper tempu
 Cras cursus purus ut diam imperdiet, eget mollis augue consequat. Curabitur efficitur venenatis tincidunt. Aliquam ullamcorper iaculis auctor. Pellentesque auctor sem vel rhoncus hendrerit. Donec sed turpis nec erat blandit feugiat congue nec velit. Quisque maximus tortor sit amet felis auctor posuere.
 
 ```javascript
-  console.log("acho que é uma boa ideia");
+  console.log("acho que é uma otima ideia");
  ```
 
